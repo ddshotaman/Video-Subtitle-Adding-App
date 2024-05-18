@@ -21,7 +21,7 @@ This is a Video subtitle App for managing subtitles for a video. It allows you t
     ```sh
     npm install
     ```
-#. Start the App:
+3. Start the App:
     ```sh
     npm start
     ```
