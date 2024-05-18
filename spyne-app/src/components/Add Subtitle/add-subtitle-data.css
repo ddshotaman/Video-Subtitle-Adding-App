@@ -1,0 +1,43 @@
+.main {
+    width: 50%;
+    border-radius: 8px;
+    background: rgb(235, 245, 240);
+    overflow-y: scroll;
+    height: 200px;
+}
+.main-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    width: 100%;
+    gap: 10px;
+    border-bottom: 2px solid #1d8d56;
+}
+.remove-button {
+    display: flex;
+    align-items: start;
+    width: 83%;
+}
+.subtitle-text{
+    resize: none; 
+    width: 83%; 
+    outline: none;
+}
+.add-sub-title{
+    margin-top: 10px;
+}
+.main-div input {
+    margin-bottom: 8px;
+    width: 40%;
+    height: 24px;
+    outline: none;
+}
+.timestamp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+}
