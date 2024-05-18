@@ -23,3 +23,5 @@ This is a Video subtitle App for managing subtitles for a video. It allows you t
     ```
 
 
+
+<img width="1415" alt="Screenshot 2024-05-18 at 12 24 34 PM" src="https://github.com/ddshotaman/Video-Subtitle-Adding-App/assets/170160292/5d941047-efa5-4c36-a7d0-84da95c487cd">
