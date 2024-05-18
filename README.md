@@ -15,7 +15,7 @@ This is a Video subtitle App for managing subtitles for a video. It allows you t
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/ddshotaman/Video-Subtitle-Adding-App.git
     ```
 2. Install the dependencies:
     ```sh
